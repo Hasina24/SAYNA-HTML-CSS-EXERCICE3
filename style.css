@@ -1,0 +1,98 @@
+header {
+    background-color: #27242b;
+}
+
+header img {
+    width: 50%;
+    height: 40%;
+}
+
+header h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Raleway";
+    font-size: larger;
+}
+
+section h3 {
+    color: #3d9f96;
+    text-align: center;
+    font-family: "Raleway";
+    font-size: medium;
+}
+
+section p {
+    color: #ababab;
+    text-align: center;
+    font-family: "Raleway";
+    font-size: xx-small;
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    border-radius: 2%;
+}
+
+
+/*SEPARATOR1*/
+
+section img {
+    padding: 0;
+    margin: 0;
+    height: 40%;
+    width: 100%;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: #3d9f96;
+    font-size: larger;
+    background-color: ghostwhite;
+}
+
+
+/*CONTENT*/
+
+section H4 {
+    margin-top: 3%;
+    margin-bottom: 2%;
+    color: #27242b;
+    text-align: center;
+    font-family: "Raleway";
+    font-size: large;
+}
+
+main table {
+    padding: 0% 6%;
+    align-content: center;
+    margin-left: 30%;
+}
+
+main .col p {
+    text-align: center;
+    float: right;
+    font-family: "Raleway";
+    font-size: xx-small;
+    color: #ababab;
+}
+
+main .col-order-2 p {
+    text-align: center;
+    float: left;
+    font-family: "Raleway";
+    font-size: xx-large;
+}
+
+
+/*SEPARATOR2*/
+
+.separator img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 10%;
+}
